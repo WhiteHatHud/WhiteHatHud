@@ -3,8 +3,16 @@ Hi there, I'm Hudzaifah 👋
 Welcome to my personal GitHub space! I'm a developer passionate about building intelligent applications, exploring Generative AI, and creating impactful software solutions.
 
 🏆 Badges & Achievements
-- **4x Hackathon Winner** — including Top 50 JAPAC Finalist at the **Google Cloud AI Builder Cup 2026** and 2nd Place at **HacX! (Microsoft × SUTD × HTX 2025)**
+- **4x Hackathon Winner** — including Top 50 JAPAC Finalist at the **Google Cloud AI Builder Cup 2026**, 1st Runner Up at **Women in Tech Hackathon (WIT)**, and 2nd Place at **HacX! (Microsoft × SUTD × HTX 2025)**
 - **Published Researcher (DR NTU)** — *Human-in-the-Loop Structured Reasoning with Schema Graph Augmentation*
+
+### 🏅 Hackathon Highlights
+
+<p align="center">
+  <img src="./MTB%20Badge.png" alt="Google Cloud AI Builder Cup 2026 - Top 50 JAPAC" width="30%" />
+  <img src="./WIT%201st%20Runner%20Up.png" alt="Women in Tech Hackathon - 1st Runner Up" width="30%" />
+  <img src="./HTX%202nd%20Place.png" alt="HacX! Microsoft x SUTD x HTX 2025 - 2nd Place" width="30%" />
+</p>
 
 🚀 About Me
 
